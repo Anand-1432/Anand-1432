@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anand Rao Gaikwad</h1>
 <h3 align="center">A Passionate MERN Stack Software Developer Building the Future of Web Applications</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F311381761734186207%2F&psig=AOvVaw0-TPkwv6AFJ1AVLPKDyrg1&ust=1677179706435000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPDXvLbrqf0CFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anand-1432&label=Profile%20views&color=0e75b6&style=flat" alt="anand-1432" /> </p>
 
